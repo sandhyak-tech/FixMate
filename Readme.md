@@ -16,7 +16,7 @@ FixMate is a mobile application designed to provide home maintenance and repair 
 
 Watch the demo video below to see the app in action:
 
-<img src="./FixMateDemo.gif" alt="Demo" width="300" >
+<img src="./FixMateDemo.gif" alt="Demo" width="500"  height="300">
 
 ## Booking Screen
 
@@ -27,7 +27,7 @@ Watch the demo video below to see the app in action:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/fixmate.git
+   git clone [https://github.com/sandhyak-tech/fixmate.git](https://github.com/sandhyak-tech/FixMate.git)
    cd fixmate
    ```
 
