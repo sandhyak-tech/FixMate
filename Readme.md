@@ -16,7 +16,7 @@ FixMate is a mobile application designed to provide home maintenance and repair 
 
 Watch the demo video below to see the app in action:
 
-<img src="./FixMateDemo.gif" alt="Demo" width="500"  height="600">
+<img src="./FixMateDemo.gif" alt="Demo" width="500"  height="500">
 
 ## Installation
 
