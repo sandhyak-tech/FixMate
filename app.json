@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "FixMate",
+    "slug": "FixMate",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/Master-ALT-e1732087309434.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "usesCleartextTraffic": true,
+    "splash": {
+      "image": "./assets/images/Master-ALT-e1732087309434.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/logomotion-ezgif.com-video-to-gif-converter.gif",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/images/Master-ALT-e1732087309434.png"
+    }
+  }
+}
