@@ -18,6 +18,11 @@ Watch the demo video below to see the app in action:
 
 <img src="./FixMateDemo.gif" alt="Demo" width="300" >
 
+## Booking Screen
+
+<img src="./Screenshots/Screenshot 2025-05-26 131751.png FixMateDemo.gif" alt="Demo" width="300" >
+
+
 ## Installation
 
 1. Clone the repository:
