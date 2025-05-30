@@ -22,7 +22,7 @@ Watch the demo video below to see the app in action:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/FixMate/fixmate.git
+   git clone [https://github.com/sandhyak-tech/fixmate.git](https://github.com/sandhyak-tech/FixMate.git)
    cd fixmate
    ```
 
